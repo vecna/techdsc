@@ -200,7 +200,9 @@ public. This is the state of affairs today that DiEM seeks to change.
 
 ### 3.1. We need democratic control over data collection
 
-51) Data collection has always carried a dual risk: inclusion in certain datasets can render citizens in general, and
+51) Democratic society might fail to protect individual and collective rights. Nowadays it is happening in two ways: technology develop faster than public comprehension, and the electoral majority, might exter abusive behaviors. Before defining any regulation, we should think to a constitution, which prepositively defines what should be permitted by data analysis and networked devices, and then prohibit specific kind of abuses. How does information technology change data collection today? Mostly by making it easier than ever to collect, store, and process data at unprecedented variety and scale, thus amplifying this dual risk in both directions.
+
+52) Data collection has always carried a dual risk: inclusion in certain datasets can render citizens in general, and
 members of marginalized groups in particular, vulnerable to being targeted for certain harms - but exclusion
 from datasets can lead to other harms in turn. As a non-technical example, consider the decision to identify
 oneself as a member of an ethnic minority on a government census. Not identifying one's ethnicity can lead to
@@ -208,22 +210,26 @@ the risk of exclusion: perhaps if members of one's ethnic group in the relevant 
 crucial social services, such as linguistic and cultural support, will not be provided at sufficient levels to meet
 the community's needs. On the other hand, including data on one's ethnic identity brings with it the risk of
 being targeted by the state or an affiliated malicious actor, on which point history provides many tragic
-accounts of the possible consequences.
+accounts of the possible consequences. To illustrate this variety, here's a partial list of the different kinds of data whose collection is facilitated by digital technology:
 
-52) How does information technology change data collection today? Mostly by making it easier than ever to
-collect, store, and process data at unprecedented variety and scale, thus amplifying this dual risk in both
-directions. To illustrate this variety, here's a partial list of the different kinds of data whose collection is
-facilitated by digital technology:
-
-- personal data, e.g. what you might enter into a form (name, age, sex, race, address, nationality, ...)
-- biometric data, e.g. what you might use to unlock an iPhone (face, fingerprint, ...)
-- personally authored content, e.g. what you might post on Facebook or send to a friend (text, audio, video, ...)
-- behavioral data, e.g. how you interact with a device or website (GPS location, sites visited, time spent on news feeds, clicks on ads, grip on steering wheel, ...)
-- behavioral biometric data, e.g. device interactions that identify you personally (speed of typing, direction of
+  - **data you provides**:
+    - personal data, e.g. what you might enter into a form (name, age, sex, race, address, nationality, ...)
+    - biometric data, e.g. what you might use to unlock an iPhone (face, fingerprint, ...)
+    - personally authored content, e.g. what you might post on Facebook or send to a friend (text, audio, video, ...)
+  - **data observed** from you:
+    - behavioral data, e.g. how you interact with a device or website (GPS location, sites visited, time spent on news feeds, clicks on ads, grip on steering wheel, ...)
+    - which friends, page, keywords, picturs you spend more time.  
+  - **data attributed**:
+    - behavioral biometric data, e.g. device interactions that identify you personally (speed of typing, direction of
 mouse movements, ...)
-- second-order inferred data, namely predicting a data attribute you did not provide (e.g. age or race) based on
+    - non-explicit consented data, such as, the languages you know, the average income of the people living in a certain neighboorhood, the kind of connections and knowledge you can have.
+    - namely predicting a data attribute you did not provide (e.g. age or race) based on
 other data about you (e.g. name or location)
-
+  - **inferred data**:
+    - the product of a probability-based analytic process, (e.g.: because you live in Milan city center, because you have spent 10% of your time in a place tagged by us as "church", we infer you are a rich Christian).
+    
+This specification is important because our current Rights provided by GDPR cover, for sure, the first two, and so the mutually shared expectation in term of Personal Data. The market exploits the third and the fourth. That's why we are strengthening our capacity in exerting our given Rights should be part of the digital empowerment we want to achieve. This frame the task as an educational, accessibility, and legal litigation effort, rather than a technological. 
+    
 53) As digital data collection extends to more and more arenas of life - our online communication and media
 consumption, "smart" devices in our homes and workplaces, CCTV cameras on our streets, automotive
 computer systems in our cars, and on and on - it becomes increasingly important that we, as citizens, know
